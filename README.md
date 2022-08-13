@@ -1,0 +1,1 @@
+# automacaoEmail-py
